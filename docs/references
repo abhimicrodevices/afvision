@@ -1,0 +1,47 @@
+
+
+1. opencv  preprocessing
+
+
+a.  removal of  distortion  
+
+b. convert  images   to colorspace  
+
+c.  remove  dust  and shadow  region
+
+
+d. increase  sharpness  and contrast  to get
+clear leaf  surface.
+
+
+
+
+FOR ABOVE  USE  OPENCV
+
+
+
+2. IMAGE SEGMENTATION
+
+USE  K-MEANS  CLUSTER   WITH UN SUPERVISED   IMAGE SEGMENTATION
+https://www.thepythoncode.com/article/kmeans-for-image-segmentation-opencv-python
+
+
+3.  FEATURE  EXTRACTION
+https://franky07724-57962.medium.com/using-keras-pre-trained-models-for-feature-extraction-in-image-clustering-a142c6cdf5b1
+	https://www.kaggle.com/code/srikanthreddyt/plant-disease-classification-with-pretrained-vgg16
+
+
+
+
+
+
+
+
+
+4 . image classification
+https://www.tensorflow.org/hub/tutorials/image_feature_vector
+
+https://vision.eng.au.dk/plant-seedlings-dataset/
+
+https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
+
