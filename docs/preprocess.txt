@@ -1,0 +1,7 @@
+Data pre-processing is a step in Data mining  and data analysis process that takes a raw data and transforms it into a format  that can be understood and analyzed by computers.
+
+Some steps in Data Pre-Processing
+* Data Quality Assesment
+* Data Cleaning
+* Data Transformation
+* Data Reduction
